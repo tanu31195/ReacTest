@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+  background-color: rgb(227, 255, 0)
+}
+
+#shape {
+  height: 200px;
+  width: 200px;
+  background-color: #00ff12;
+  display: none;
+  position: relative;
+}
+
+.italic {
+  font-style: italic;
+}
